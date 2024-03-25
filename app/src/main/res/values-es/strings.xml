@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qué combustible?</string>
+    <string name="answer_ethanol">Recarga combustible con etanol.</string>
+    <string name="answer_gas">Recarga combustible con gasolina</string>
+    <string name="message_gas">Valor por litro de Gasolina.</string>
+    <string name="message_ethanol">Valor por litro de etanol</string>
+    <string name="button_text">Cuál es la mejor opción?</string>
+    <string name="informe_o_valor_dos_dois_combustiveis">Ingrese el valor de los dos combustibles.</string>
+    <string name="valor_invalido">Valor no válido.</string>
+</resources>
